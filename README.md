@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Negar
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXloemJiN3V4ajk5OHd5c2hzYTdtZWh0MDBmZjhtdWdjNm1mZm15cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="500"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXloemJiN3V4ajk5OHd5c2hzYTdtZWh0MDBmZjhtdWdjNm1mZm15cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"/>
 </div>
 
 ### :woman_technologist: About Me :
