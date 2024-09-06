@@ -11,14 +11,15 @@
 
 - 👀 If you'd like to catch up with me, you'll probably find me at the gym or exploring art galleries in my free time.
 
-- 📫 How to reach me:
-
 ------
 ### ⚒️ Languages and tools :
 - 🐍 Python
 - 📊 Tableau
 - 💻 SQL
 - 🪄 Streamlit
+
+---
+- 📫 How to reach me:
 
 
 <!---
