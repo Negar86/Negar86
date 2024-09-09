@@ -5,7 +5,9 @@
 </div>
 
 ### :woman_technologist: About Me :
-- ✨ I am a junior data analyst with over ten years of experience in various markets, including energy sector, where I worked as a commercial expert. 
+- ✨ I am a junior data analyst, having completed the Ironhack bootcamp, where I gained hands-on experience.
+  
+- ✨ I have over ten years of experience working as a commercial expert in various industries, including the energy sector, where I developed strong analytical and business insights.
   
 - 🌱 I am now concentrating on advancing my skills in data science and mastering advanced data visualization techniques.
 
