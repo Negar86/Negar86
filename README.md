@@ -17,17 +17,17 @@
 ### ⚒️ Languages and tools :
 - 🐍 Python
 - 📊 Tableau
-- 💻 SQL
+- 🗄️ SQL
 - 🪄 Streamlit
 
 ---
 ### 💼 Projects I feel proud about :
 
-|   Project  | What is it about |
-| ------------- | ------------- |
-| :apple:[Nutrition](https://github.com/Negar86/Nutrition_app)  | Develop an app that allows users to get feedback about their physical condition and create a personalized plan based on their goals and preferences. |
-| :money_with_wings:[Data Science Job Salary]() |Analyze the Data Scientist job market trends from 2020 to 2024, identifying significant trends, insights, and patterns that have emerged in this rapidly evolving field.| 
-|:houses: [House price prediction](https://github.com/Negar86/Quest4-House-Price-Prediction_)| This project focuses on analyzing and predicting house sale prices in King County using. Through EDA and data processing, I aim to identify the best machine learning model for accurate price prediction.
+|   Project  | Industry | What is it about |
+| ------------- | ------------- |------------ |
+| [Nutrition](https://github.com/Negar86/Nutrition_app)  | :apple: Healthcare  | Develop an app that allows users to get feedback about their physical condition and create a personalized plan based on their goals and preferences. |
+| [Data Science Job Salary](https://github.com/Negar86/Quest4-House-Price-Prediction) | :money_with_wings: Jobs & Salary | Analyze the Data Scientist job market trends from 2020 to 2024, identifying significant trends, insights, and patterns that have emerged in this rapidly evolving field.| 
+| [House price prediction](https://github.com/Negar86/Quest4-House-Price-Prediction_) |:houses: Real Estate | This project focuses on analyzing and predicting house sale prices in King County using. Through EDA and data processing, I aim to identify the best machine learning model for accurate price prediction.|
 
 
 ---
