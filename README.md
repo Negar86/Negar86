@@ -14,11 +14,15 @@
 - 👀 If you'd like to catch up with me, you'll probably find me at the gym or exploring art galleries in my free time.
 
 ------
-### ⚒️ Languages and tools :
+### ⚒️ tools :
 - 🐍 Python
-- 📊 Tableau
 - 🗄️ SQL
-- 🪄 Streamlit
+- 📊 Tableau
+
+### Methods : 
+- Streamlit
+- Natural Language Processing (NLP)
+- 🤖 Machine Learning (ML)
 
 ---
 ### 💼 Projects I feel proud about :
