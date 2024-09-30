@@ -4,6 +4,13 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXloemJiN3V4ajk5OHd5c2hzYTdtZWh0MDBmZjhtdWdjNm1mZm15cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"/>
 </div>
 
+<div id="badges" align="center">
+  <a "https://www.linkedin.com/in/negar86/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+
 ### :woman_technologist: About Me :
 - ✨ I am a junior data analyst, having completed the Ironhack bootcamp, where I gained hands-on experience.
   
@@ -33,12 +40,6 @@
 
 
 ---
-### 📫 How to reach me:
-<div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/negar-mokhtari-nm8664/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 
 <!---
